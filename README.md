@@ -1,14 +1,17 @@
 # Hi, I'm Vijayaragavi Jaganathan 👋
 
 🎓 First-Year MCA Student
-📊 Aspiring Data Scientist
-🌱 Beginner in Data Science and Machine Learning
+📊 Aspiring Cloud Architect
+💻 Interested in Cloud Computing, DevOps & Software Development
+🌱 Currently Learning AWS, Linux, Networking & Python
 
 ## 👩‍💻 About Me
 
-I'm a first-year MCA student interested in Data Science, Machine Learning, and software development.
+I'm a first-year MCA student interested in Cloud Computing, DevOps, Software Development, and Data Science.
 
-I'm currently building my programming foundation and learning Java while strengthening my Python skills.
+I'm currently building a strong foundation in programming, Linux, networking, and cloud computing while exploring AWS and DevOps technologies.
+
+My goal is to gradually develop the technical and architectural skills required to build scalable, secure, and reliable cloud solutions..
 
 ## 🛠️ Skills
 
@@ -18,13 +21,20 @@ I'm currently building my programming foundation and learning Java while strengt
 * C
 * Java (Learning)
 
-**Currently Learning**
+**Database**
+* SQL (Learning)
+* Database Fundamentals (Learning)
 
+**Currently Learning**
+* AWS Cloud Fundamentals
+* Linux & Command Line
+* Computer Networking
 * Data Structures & Algorithms
-* SQL
-* Data Analysis
-* Statistics
-* Machine Learning
+* SQL & Databases
+* Python
+* DevOps Fundamentals
+* Docker
+* Cloud Security Fundamentals
 
 **Tools**
 
@@ -34,14 +44,17 @@ I'm currently building my programming foundation and learning Java while strengt
 
 ## 🚀 My Learning Goals
 
-* Strengthen Python programming
-* Learn SQL and databases
-* Learn Data Structures & Algorithms
-* Learn Statistics for Data Science
-* Learn NumPy and Pandas
-* Explore Data Visualization
-* Build Machine Learning projects
-* Develop a strong Data Science portfolio
+* Build a strong foundation in AWS and cloud computing
+*Learn Linux administration and computer networking
+*Strengthen Python programming skills
+*Learn SQL and database fundamentals
+Understand Docker, CI/CD, and DevOps practices
+*Explore Infrastructure as Code with Terraform
+*Learn cloud security fundamentals
+*Understand scalable and highly available cloud architectures
+*Build and document practical cloud projects
+*Develop a strong Cloud and DevOps portfolio
+
 
 ## 📂 Projects
 
